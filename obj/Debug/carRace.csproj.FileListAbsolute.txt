@@ -1,0 +1,10 @@
+C:\Users\LENOVO\Desktop\car race\carRace\bin\Debug\carRace.exe.config
+C:\Users\LENOVO\Desktop\car race\carRace\bin\Debug\carRace.exe
+C:\Users\LENOVO\Desktop\car race\carRace\bin\Debug\carRace.pdb
+C:\Users\LENOVO\Desktop\car race\carRace\obj\Debug\carRace.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\car race\carRace\obj\Debug\carRace.Form1.resources
+C:\Users\LENOVO\Desktop\car race\carRace\obj\Debug\carRace.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\car race\carRace\obj\Debug\carRace.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\car race\carRace\obj\Debug\carRace.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\car race\carRace\obj\Debug\carRace.exe
+C:\Users\LENOVO\Desktop\car race\carRace\obj\Debug\carRace.pdb
